@@ -1,4 +1,4 @@
-[![Deploy Hugo site to Pages](https://github.com/aviyachki/odef-site/actions/workflows/hugo.yaml/badge.svg?branch=main)](https://github.com/aviyachki/odef-site/actions/workflows/hugo.yaml)
+[![Deploy Hugo site to Pages](https://github.com/open-detection-engineering-framework/odef-site/actions/workflows/hugo.yaml/badge.svg?branch=main)](https://github.com/open-detection-engineering-framework/odef-site/actions/workflows/hugo.yaml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/aviyachki/odef-site?color=green)
 <!-- ![GitHub Release Date](https://img.shields.io/github/release-date/aviyachki/odef-site) -->
 ![GitHub contributors](https://img.shields.io/github/contributors/aviyachki/odef-site?color=teal)

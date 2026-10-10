@@ -10,7 +10,7 @@ description: "Open Detection Engineering Framework Wiki Page"
 
 ## About ODEF
 
-✨ ODEF is an open-source framework dedicated to enhancing and standardizing detection engineering processes. Explore the framework on [GitHub](https://github.com/aviyachki/odef-site) ✨
+✨ ODEF is an open-source framework dedicated to enhancing and standardizing detection engineering processes. Explore the framework on [GitHub](https://github.com/open-detection-engineering-framework/odef-site) ✨
 
 ## License
 
